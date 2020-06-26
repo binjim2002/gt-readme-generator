@@ -24,7 +24,7 @@ return `
   ## Questions
   You may contact me with any questions on GitHub at https://github.com/${data.username}.
   ##Badges
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License: MIT]
 `;
 }
 module.exports = generateMarkdown;

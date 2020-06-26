@@ -1,6 +1,7 @@
 const generateMarkdown = require("./utils/generateMarkdown")
 var inquirer = require("inquirer")
 const fs = require("fs")
+
 const questions = [
     {
         message: "Tell me the name of this project?",

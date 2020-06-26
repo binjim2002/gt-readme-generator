@@ -1,6 +1,5 @@
-function generateMarkdown(data) {
-return `
-  # ${data.title}
+
+  # fgfsd
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
@@ -10,21 +9,18 @@ return `
   * [Test](#test)
   * [Questions](#questions)
   ## Description
-  ${data.description}
+  
   ## Installation
-  ${data.installation}
+  
   ## Usage
-  ${data.usage}
+  
   ## Contributing
-  ${data.contributors}
+  
   ## License
-  ${data.license}
+  MIT
   ## Test
-  ${data.testing}
+  
   ## Questions
-  You may contact me with any questions on GitHub at https://github.com/${data.username}.
+  You may contact me with any questions on GitHub at https://github.com/jhdfgz\.
   ##Badges
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-`;
-}
-module.exports = generateMarkdown;

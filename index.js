@@ -26,7 +26,6 @@ const questions = [
     },
     {
         message: "is this app working pretty good?",
-        
         type: "input",
         name: "testing"
     },
@@ -58,7 +57,8 @@ console.log("init");
 inquirer.prompt(questions)
 .then(function(data) {
 console.log(data)
-fs.writeFileSync("MYREADME.md", generateMarkdown(data), function (err) {
+fs.appendFileSync("MYREADME.md", generateMarkdown(data), function (err) {
+    // I dont want to do writeFile because i dont want it to be overwritten
 if (err) {
 throw err;
 }})

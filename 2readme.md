@@ -13,18 +13,20 @@ MYREAD is a readme generator. In fact, This app is designed to provide our user 
 ## Usage 
 
 Using MYREADME is easy and simple. As soon as you open the app, you'll be asked a few question such as:
+Tell me the name of this project?",
+"What does this project do?"
+what kind of installation do you have in there?
+Tell me about the license?
+is this app working pretty good?
+who contiributed to this project?
 
 
-t corner of your screen, you will find a button where it says Begin. 
-As soon as you click there, you will be led to a page to confirm that you are at least 21 years old, given that the law requires us to be 21 years old before consuming an alcoholic beverages.
 
-After confirming this, you will be led to the page that contains the different moods among which could carry your choice. After choosing your mood, you can then choose your kind of music and then you will be offered a playlist, combined with a cocktail, to allow you to change or keep your mood. Simple.
-
-To access Good Spirits
-[CLICK HERE](https://elizaregas.github.io/Good-Spirits/)
-
-![Good Spirits Photo 1](./assets/images/GS1.png)
-![Good Spirits Photo 1](./assets/images/GS2.png)
+To access MYREADME 
+[CLICK HERE](https://drive.google.com/file/d/1XNasDYJubMwiXSiwWZ7WF0hwMbpq_Q1N/view?usp=sharing)
+ 
+ My Github repo is: https://github.com/brw1820/readme-generator-homework-09
+ 
 
 ## Credits
 

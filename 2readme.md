@@ -1,6 +1,4 @@
-# Good Spirits
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Readme
 
 ## Description 
 MYREAD is a readme generator. In fact, This app is designed to provide our user with a few questions about the app that they have just created .

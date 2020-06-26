@@ -1,5 +1,5 @@
 
-  # fews
+  #  read me generator
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
@@ -9,7 +9,7 @@
   * [Test](#test)
   * [Questions](#questions)
   ## Description
-  
+   
   ## Installation
   
   ## Usage
@@ -19,8 +19,8 @@
   ## License
   MIT
   ## Test
-  
+  fg
   ## Questions
-  You may contact me with any questions on GitHub at https://github.com/undefined.
+  You may contact me with any questions on GitHub at https://https://github.com/binjim2002/gt-readme-generator.
   ##Badges
-  [![License: [MIT licensed](./LICENSE).
+  [![License: MIT]

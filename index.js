@@ -18,11 +18,7 @@ const questions = [
         type: "input",
         name: "installation"
     },
-    {
-        message:"what kind of installation do you have in there?",
-        type: "input",
-        name: "usage"
-    },
+    
     {
         message: "Tell me about the license",
         type: "input",

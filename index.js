@@ -38,8 +38,8 @@ const questions = [
         
     },
     {
-        message: "What can I do if I have questions?",
-        name: "tests",
+        message: "How can I answer you question?",
+        name: "questions",
         type: "input",
         
         

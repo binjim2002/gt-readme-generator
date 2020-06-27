@@ -22,7 +22,7 @@ return `
   ## Test
   ${data.testing}
   ## Questions
-  You may contact me with any questions on GitHub at https://https://github.com/binjim2002/gt-readme-generator.
+  You may contact me with any questions on GitHub at https://https://github.com/username.
   ##Badges
   [![License: MIT]
 `;

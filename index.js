@@ -10,29 +10,36 @@ const questions = [
         name: "title"
     },
     {
-        message: "What does this project do?",
+        message: "Can you describe this project?",
         type: "input",
         name: "description"
     },
     {
-        message: "what kind of installation do you have in there?",
+        message: "what kind of installation structure do you have in there?",
         type: "input",
         name: "installation"
     },
     
     {
-        message: "Tell me about the license",
+        message: "What is the usage instruction of you project ",
         type: "input",
-        name: "license",
+        name: "usage",
     },
     {
-        message: "is this app working pretty good?",
+        message: "How to get involved in this project?",
         type: "input",
-        name: "testing"
+        name: "contributing"
     },
     {
-        message: "who contiributed to this project?",
-        name: "contributing",
+        message: "How does this app work?",
+        name: "tests",
+        type: "input",
+        
+        
+    },
+    {
+        message: "What can I do if I have questions?",
+        name: "tests",
         type: "input",
         
         
@@ -43,7 +50,7 @@ const questions = [
         name: "testing github",
     },
     {
-        message: "Do you have anymore questions?",
+        message: "Which license did you use?",
         type: "list",
         name: "license",
         choices: [

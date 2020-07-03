@@ -28,7 +28,7 @@ To access MYREADME
 
 ## Credits
 
-This app was designed and built by Joel Bell, Andrew Taylor Collier, Jimmy Kazadi, and Eliza Regas. 
+This app was designed and built by Jimmy Kazadi. 
 
 ## MIT License
-
+[![License](https://img.shields.io/badge/License-${data.license}-blue.svg)](https://opensource.org/licenses/${data.license})
